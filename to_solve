@@ -1,0 +1,50 @@
+Prelim Activities (Computer Programming 1)
+
+Instructions: Copy and Paste the following in your code as your starter file, create a module for each given exercises and 
+complete the coding.
+
+
+
+#Payroll.py
+#by:  Your Name ( University of Pangasinan)
+
+# prompt user for day of work per week
+
+# compute for the grosspay
+
+# display the no of working days and grosspay
+
+# compute and display for the dedcutions (philhealth = 2%, pagibig = 3%, sss= %
+
+# compute and display for the netpay ( Display should show Grosspay, Deductions, and Net Pay)
+
+---------------------------------------------------------
+
+#Grade.py
+#by:  Your Name ( University of Pangasinan)
+
+#prompt user to get values of three consecutive quizzes which is 30% of Grade
+
+#compute and display for the average of a quiz
+
+#prompt user to get values of 3 consecutive  projects which is 20% of Grade
+
+#compute and display for the average of a projects
+
+#prompt user for the exam result which is 30% of Grade
+
+#prompt user for the assignment result in total which is 10 % of Grade
+
+#prompt user for the class standing which is attendance of 10 % of Grade
+
+#and compute and display for the finalgrade
+
+--------------------------------------------------
+#FinalGrade.py
+#by:  Your Name ( University of Pangasinan)
+
+#Modify Grade.py
+
+#Test Grades with Remarks
+
+# 90 and above is “Very Good”, 80 is “Good”, 70 is “Fair”, 60 is “Poor”
